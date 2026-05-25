@@ -72,6 +72,11 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [A checklist of best practices to speed up your pytest suite](https://github.com/zupo/awesome-pytest-speedup)
 
+[Setting Up Testing with pytest and uv](https://pydevtools.com/handbook/tutorial/setting-up-testing-with-pytest-and-uv/) - A tutorial on setting up a Python testing workflow with pytest and uv.
+
+[How to Run Tests in Parallel with pytest-xdist](https://pydevtools.com/handbook/how-to/how-to-run-tests-in-parallel-with-pytest-xdist/) - A guide to parallelizing your test suite using pytest-xdist.
+
+[pytest Reference](https://pydevtools.com/handbook/reference/pytest/) - A reference page covering pytest's key features, pros, cons, and ecosystem.
 [pytest-ranking: A Regression Test Prioritization Tool for Python](https://dl.acm.org/doi/10.1145/3696630.3728587)
 
 ## Presentations
