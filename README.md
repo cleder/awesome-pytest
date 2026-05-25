@@ -77,6 +77,7 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 [How to Run Tests in Parallel with pytest-xdist](https://pydevtools.com/handbook/how-to/how-to-run-tests-in-parallel-with-pytest-xdist/) - A guide to parallelizing your test suite using pytest-xdist.
 
 [pytest Reference](https://pydevtools.com/handbook/reference/pytest/) - A reference page covering pytest's key features, pros, cons, and ecosystem.
+[pytest-ranking: A Regression Test Prioritization Tool for Python](https://dl.acm.org/doi/10.1145/3696630.3728587)
 
 ## Presentations
 
@@ -101,6 +102,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 [pyfakefs](https://github.com/pytest-dev/pyfakefs) - Provides a fake file system that mocks the Python file system modules.
 
 [pytest-bdd](https://pypi.python.org/pypi/pytest-bdd) - pytest-bdd implements a subset of the Gherkin language to enable automating project requirements testing and to facilitate behavioral driven development.
+
+[pytest-capquery](https://github.com/fmartins/pytest-capquery/) - is a pytest fixture for high-precision SQL testing in SQLAlchemy. It captures executed queries, normalizes formatting via sqlparse, and tracks transaction savepoints. Designed for strict query plan validation, it includes built-in debugging tools to easily maintain and update database assertions.
 
 [pytest-check](https://github.com/okken/pytest-check) - A pytest plugin that allows multiple failures per test.
 
@@ -197,3 +200,5 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 
 [syrupy](https://github.com/tophat/syrupy) - The sweeter pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.
+
+[pytest-ranking](https://github.com/softwareTestingResearch/pytest-ranking) - This pytest plugin allows you to find regression test failures faster and receive testing feedback sooner from CI build. It speeds up the failure detection of your test suite by executing earlier the tests that are faster, recently failed, and more code-change-related.
