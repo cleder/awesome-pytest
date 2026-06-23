@@ -95,6 +95,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 ## Code samples and projects
 
+[Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Hardware-in-the-loop testing framework with pytest integration for automated testing on real and virtual hardware.
+
 [Requests - Python HTTP Requests for Humans™ and Pytest](https://github.com/requests/requests/tree/master/tests)
 
 ## Plugins
